@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.ucas.com	TRUE	/	FALSE	1999999999	__cf_bm	x6wGjg5u3LxYOwCali5SxYyfvBBKAE4AlBHa2XZlhek-1665757753-0-ASOfxEGljoSVSHRRjbg5FhqPgwTTbx/qqxUxrG2H6QsDHbSJGr0nOsaETExWeIR1dMaDUGNUr7vJHfieThCTQD4=
+.ucas.com	TRUE	/	FALSE	1999999999	__cfruid	fb869391faef0dc4af31e9e656fc5c7e25ba42b4-1665757753
+www.ucas.com	TRUE	/	FALSE	1999999999	SameSite	None
+

@@ -1,0 +1,1 @@
+!function(i){"use strict";Drupal.behaviors.ucasUseful={attach:function(){var a=i(".useful");a.length<1||a.each((function(){(i(this).find(".flag").css("display","inline-block"),i(this).find(".flag.unflag-disabled").length>0)&&i(this).find(".flag.flag-action").hide()}))}}}(jQuery);;
